@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: subscription-manager
-  title: Subscription Manager
-  description: Subscription Manager engine
+  name: dataenablement-api
+  title: Dataenablement Api
+  description: Dataenablement
   annotations:
-    github.com/project-slug: volvo-cars/subscription-manager
+    github.com/project-slug: dgovind1/dataenablement-api
 spec:
   type: service
   owner: subzero
