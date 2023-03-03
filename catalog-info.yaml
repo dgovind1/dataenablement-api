@@ -14,4 +14,5 @@ metadata:
 spec:
   type: service
   owner: dataenablement@volvocars.com
+  system: dataenablement-api
   lifecycle: experimental
