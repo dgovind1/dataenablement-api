@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: subscription-manager
+  title: Subscription Manager
+  description: Subscription Manager engine
+  annotations:
+    github.com/project-slug: volvo-cars/subscription-manager
+spec:
+  type: service
+  owner: subzero
+  lifecycle: experimental
