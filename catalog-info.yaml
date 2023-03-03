@@ -3,10 +3,15 @@ kind: Component
 metadata:
   name: dataenablement-api
   title: Dataenablement Api
-  description: Dataenablement
+  description: Dataenablement APIs
+  links:
+    - title: Facility
+      url: https://gw1.qa.api.volvocars.biz/workplace/facilities
+    - title: Documentation
+      url: https://volvocargroup.visualstudio.com/Corporate%20Worklife/_wiki/wikis/Corporate%20Worklife/23325/App-Facility
   annotations:
     github.com/project-slug: dgovind1/dataenablement-api
 spec:
   type: service
-  owner: subzero
+  owner: dataenablement@volvocars.com
   lifecycle: experimental
